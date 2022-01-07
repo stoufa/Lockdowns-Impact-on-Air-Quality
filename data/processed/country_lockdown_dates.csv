@@ -1,0 +1,231 @@
+country_region,country_code,province,date,type
+Afghanistan,AF,,2020-03-24,Full
+Albania,AL,,2020-03-08,Full
+Algeria,DZ,,2020-03-24,Full
+Andorra,AD,,2020-03-16,Full
+Angola,AO,,2020-03-24,Full
+Argentina,AR,,2020-03-20,Full
+Armenia,AM,,2020-03-24,Full
+Australia,AU,Victoria,2020-03-24,Full
+Austria,AT,,2020-03-16,Full
+Azerbaijan,AZ,,2020-03-02,Full
+Bahamas,BS,,2020-03-20,Full
+Bahrain,BH,,2020-02-25,Full
+Bangladesh,BD,,2020-03-19,Full
+Barbados,BB,,2020-03-28,Full
+Belgium,BE,,2020-03-17,Full
+Belize,BZ,,2020-03-30,Full
+Bhutan,BT,,2020-03-06,Full
+Bolivia,BO,,2020-03-12,Full
+Bosnia and Herzegovina,BA,,2020-03-11,Full
+Botswana,BW,,2020-04-02,Full
+Bulgaria,BG,,2020-03-13,Full
+Burkina Faso,BF,,2020-03-21,Full
+Cambodia,KH,,2020-03-28,Partial
+Canada,CA,Alberta,2020-03-17,Full
+Canada,CA,British Columbia,2020-03-18,Full
+Canada,CA,Manitoba,2020-03-20,Full
+Canada,CA,New Brunswick,2020-03-19,Full
+Canada,CA,Newfoundland and Labrador,2020-03-18,Full
+Canada,CA,Northwest Territories,2020-03-18,Partial
+Canada,CA,Nova Scotia,2020-03-22,Full
+Canada,CA,Ontario,2020-03-14,Full
+Canada,CA,Prince Edward Island,2020-03-16,Full
+Canada,CA,Quebec,2020-03-12,Full
+Canada,CA,Saskatchewan,2020-03-18,Full
+Canada,CA,Yukon,2020-03-18,Partial
+Chile,CL,,2020-03-26,Full
+China,CN,Anhui,2020-01-23,Full
+China,CN,Beijing,2020-01-23,Full
+China,CN,Chongqing,2020-01-23,Full
+China,CN,Fujian,2020-01-23,Full
+China,CN,Gansu,2020-01-23,Full
+China,CN,Guangdong,2020-01-23,Full
+China,CN,Guangxi,2020-01-23,Full
+China,CN,Guizhou,2020-01-23,Full
+China,CN,Hainan,2020-01-23,Full
+China,CN,Hebei,2020-01-23,Full
+China,CN,Heilongjiang,2020-01-23,Full
+China,CN,Henan,2020-01-23,Full
+China,CN,Hong Kong,2020-03-23,Full
+China,CN,Hubei,2020-01-23,Full
+China,CN,Hunan,2020-01-23,Full
+China,CN,Inner Mongolia,2020-01-23,Full
+China,CN,Jiangsu,2020-01-23,Full
+China,CN,Jiangxi,2020-01-23,Full
+China,CN,Jilin,2020-01-23,Full
+China,CN,Liaoning,2020-01-23,Full
+China,CN,Macau,2020-01-26,Full
+China,CN,Ningxia,2020-01-23,Full
+China,CN,Qinghai,2020-01-23,Full
+China,CN,Shaanxi,2020-01-23,Full
+China,CN,Shandong,2020-01-23,Full
+China,CN,Shanghai,2020-01-23,Full
+China,CN,Shanxi,2020-01-23,Full
+China,CN,Sichuan,2020-01-23,Full
+China,CN,Tianjin,2020-01-23,Full
+China,CN,Tibet,2020-01-23,Full
+China,CN,Xinjiang,2020-01-23,Full
+China,CN,Yunnan,2020-01-23,Full
+China,CN,Zhejiang,2020-01-23,Full
+Colombia,CO,,2020-03-25,Full
+Congo (Kinshasa),CD,,2020-03-19,Full
+Costa Rica,CR,,2020-03-15,Full
+Cote dIvoire,CI,,2020-03-29,Full
+Croatia,HR,,2020-03-22,Partial
+Cyprus,CY,,2020-03-25,Full
+Czechia,CZ,,2020-03-16,Full
+Denmark,DK,Faroe Islands,2020-03-12,Full
+Denmark,DK,,2020-03-11,Full
+Dominican Republic,DO,,2020-03-17,Full
+Ecuador,EC,,2020-03-24,Partial
+Egypt,EG,,2020-03-24,Full
+El Salvador,SV,,2020-03-11,Full
+Estonia,EE,,2020-03-13,Full
+Ethiopia,ET,,2020-03-16,Full
+Fiji,FJ,,2020-03-20,Full
+Finland,FI,,2020-03-27,Full
+France,FR,French Polynesia,2020-03-27,Partial
+France,FR,Martinique,2020-03-20,Partial
+France,FR,,2020-03-16,Full
+Gambia,GM,,2020-03-27,Full
+Georgia,GE,,2020-03-22,Partial
+Germany,DE,,2020-03-20,Full
+Ghana,GH,,2020-03-15,Full
+Greece,GR,,2020-03-18,Full
+Honduras,HN,,2020-03-20,Partial
+Hungary,HU,,2020-03-16,Full
+Iceland,IS,,2020-03-16,Full
+India,IN,,2020-03-24,Full
+Indonesia,ID,,2020-03-15,Full
+Iran,IR,,2020-03-15,Full
+Iraq,IQ,,2020-03-22,Full
+Ireland,IE,,2020-03-12,Full
+Israel,IL,,2020-03-12,Full
+Italy,IT,,2020-03-11,Full
+Jamaica,JM,,2020-03-12,Full
+Japan,JP,,2020-02-27,Full
+Jersey,JE,,2020-03-18,Full
+Jordan,JO,,2020-03-21,Full
+Kazakhstan,KZ,,2020-03-15,Full
+Kenya,KE,,2020-03-15,Full
+"Korea, South",KR,,2020-02-23,Full
+Kosovo,XK,,2020-03-25,Partial
+Kuwait,KW,,2020-03-16,Partial
+Kyrgyzstan,KG,,2020-03-24,Partial
+Latvia,LV,,2020-03-13,Full
+Lebanon,LB,,2020-03-16,Full
+Liechtenstein,LI,,2020-03-20,Partial
+Lithuania,LT,,2020-03-16,Full
+Luxembourg,LU,,2020-03-16,Full
+Madagascar,MG,,2020-03-17,Partial
+Malaysia,MY,,2020-03-18,Full
+Maldives,MV,,2020-03-11,Full
+Mali,ML,,2020-03-18,Full
+Malta,MT,,2020-03-12,Full
+Mauritius,MU,,2020-03-17,Partial
+Mexico,MX,,2020-03-14,Partial
+Moldova,MD,,2020-03-11,Full
+Monaco,MC,,2020-03-17,Full
+Mongolia,MN,,2020-03-10,Full
+Montenegro,ME,,2020-03-24,Full
+Morocco,MA,,2020-03-16,Full
+Namibia,,,2020-03-14,Full
+Nepal,NP,,2020-03-24,Full
+Netherlands,NL,Aruba,2020-03-16,Full
+Netherlands,NL,,2020-03-24,Full
+New Zealand,NZ,,2020-03-25,Full
+Nigeria,NG,,2020-03-25,Full
+North Macedonia,MK,,2020-03-18,Full
+Norway,NO,,2020-03-12,Full
+Oman,OM,,2020-03-29,Partial
+Pakistan,PK,,2020-03-26,Full
+Palestine,PS,,2020-03-05,Full
+Panama,PA,,2020-03-25,Full
+Paraguay,PY,,2020-03-15,Partial
+Peru,PE,,2020-03-10,Full
+Philippines,PH,,2020-03-16,Partial
+Poland,PL,,2020-03-12,Full
+Portugal,PT,,2020-03-18,Full
+Qatar,QA,,2020-03-11,Full
+Romania,RO,,2020-03-25,Full
+Russia,RU,,2020-03-27,Full
+Rwanda,RW,,2020-03-16,Full
+Saint Lucia,LC,,2020-03-20,Full
+San Marino,SM,,2020-03-09,Full
+Saudi Arabia,SA,,2020-03-15,Full
+Senegal,SN,,2020-03-24,Partial
+Serbia,RS,,2020-03-15,Full
+Singapore,SG,,2020-03-26,Partial
+Slovakia,SK,,2020-03-09,Full
+Slovenia,SI,,2020-03-11,Full
+Somalia,SO,,2020-03-19,Full
+South Africa,ZA,,2020-03-26,Full
+Spain,ES,,2020-03-14,Full
+Sri Lanka,LK,,2020-03-21,Full
+Switzerland,CH,,2020-03-18,Full
+Syria,SY,,2020-03-14,Full
+Taiwan*,TW,,2020-02-02,Full
+Thailand,TH,,2020-03-22,Full
+Togo,TG,,2020-03-20,Partial
+Trinidad and Tobago,TT,,2020-03-13,Full
+Tunisia,TN,,2020-03-20,Full
+Turkey,TR,,2020-03-23,Full
+Uganda,UG,,2020-03-18,Full
+Ukraine,UA,,2020-03-17,Full
+United Arab Emirates,AE,,2020-03-24,Full
+United Kingdom,GB,Anguilla,2020-03-18,Full
+United Kingdom,GB,Gibraltar,2020-03-24,Full
+United Kingdom,GB,Isle of Man,2020-03-23,Full
+United Kingdom,GB,Turks and Caicos Islands,2020-03-27,Full
+United Kingdom,GB,,2020-03-23,Full
+Uruguay,UY,,2020-03-16,Full
+US,US,Alabama,2020-04-04,Full
+US,US,Alaska,2020-03-28,Full
+US,US,Arizona,2020-03-31,Full
+US,US,California,2020-03-19,Full
+US,US,Colorado,2020-03-26,Full
+US,US,Connecticut,2020-03-23,Full
+US,US,Delaware,2020-03-24,Full
+US,US,Florida,2020-04-02,Full
+US,US,Guam,2020-03-26,Full
+US,US,Hawaii,2020-03-25,Full
+US,US,Idaho,2020-03-25,Full
+US,US,Illinois,2020-03-21,Full
+US,US,Indiana,2020-03-24,Full
+US,US,Kansas,2020-03-30,Full
+US,US,Kentucky,2020-03-26,Full
+US,US,Louisiana,2020-03-23,Full
+US,US,Maine,2020-04-02,Full
+US,US,Maryland,2020-03-30,Full
+US,US,Massachusetts,2020-03-24,Full
+US,US,Michigan,2020-03-24,Full
+US,US,Minnesota,2020-03-27,Full
+US,US,Mississippi,2020-04-03,Full
+US,US,Missouri,2020-04-06,Full
+US,US,Montana,2020-03-28,Full
+US,US,Nevada,2020-04-02,Full
+US,US,New Hampshire,2020-03-27,Full
+US,US,New Jersey,2020-03-21,Full
+US,US,New Mexico,2020-03-24,Full
+US,US,New York,2020-03-22,Full
+US,US,North Carolina,2020-03-30,Full
+US,US,Ohio,2020-03-23,Full
+US,US,Oregon,2020-03-23,Full
+US,US,Pennsylvania,2020-04-02,Full
+US,US,Puerto Rico,2020-03-13,Full
+US,US,Rhode Island,2020-03-28,Full
+US,US,Tennessee,2020-03-31,Full
+US,US,Texas,2020-04-02,Full
+US,US,Vermont,2020-03-25,Full
+US,US,Virgin Islands,2020-03-25,Full
+US,US,Virginia,2020-03-30,Full
+US,US,Washington,2020-03-23,Full
+US,US,West Virginia,2020-03-24,Full
+US,US,Wisconsin,2020-03-25,Full
+Uzbekistan,UZ,,2020-03-20,Partial
+Vatican City,VA,,2020-03-10,Full
+Venezuela,VE,,2020-03-16,Full
+Vietnam,VN,,2020-03-19,Full
+West Bank and Gaza,PS,,2020-03-05,Full
+Zimbabwe,ZW,,2020-03-27,Full

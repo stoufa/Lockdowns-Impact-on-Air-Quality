@@ -10,6 +10,8 @@ In early 2020, most cities across the globe opted for lockdowns due to the rapid
 
 ## Data
 
+> N.B. Normally, it is not recommended to upload data in your project's GitHub repository, however, we will do it for convenience in this project since each of the files didn't exceed the maximum size limit of 100MB
+
 ### Air Quality
 
 The [World Air Quality Index project team](https://aqicn.org/data-platform/covid19/verify/44b4316d-6a53-46ee-8238-4e23f8cce63a) has been taking measurements from stations planted in different cities around the world. In this project, We'll be interested only in the years 2019, 2020, and 2021. Within the dataset, we'll find the min, max, median, and standard deviation of the measurements for each of the air pollutant species (PM2.5, PM10, Ozone ...).
@@ -37,6 +39,8 @@ The dataset is structured as follows:
 - `Date`: date when the lockdown began, null if no lockdown exists (`dd-mm-yyyy` format)
 - `Type`: type of lock down (Full, Partial or None)
 - `Reference`: URL Reference of the source of information.
+
+> We found out that this dataset is not enough, this is why we scraped data from the [COVID-19 lockdowns](https://en.wikipedia.org/wiki/COVID-19_lockdowns) Wikipedia article
 
 ## Contributing
 
